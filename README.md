@@ -1,1 +1,1 @@
-# chess-score-sheet-viz
+# stock-analyzer
